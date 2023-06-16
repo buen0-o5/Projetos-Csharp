@@ -1,0 +1,16 @@
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\obj\Debug\net5.0\ProjetoCorrida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\obj\Debug\net5.0\ProjetoCorrida.AssemblyInfoInputs.cache
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\obj\Debug\net5.0\ProjetoCorrida.AssemblyInfo.cs
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\obj\Debug\net5.0\ProjetoCorrida.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\bin\Debug\net5.0\ProjetoCorrida.exe
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\bin\Debug\net5.0\ProjetoCorrida.deps.json
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\bin\Debug\net5.0\ProjetoCorrida.runtimeconfig.json
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\bin\Debug\net5.0\ProjetoCorrida.runtimeconfig.dev.json
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\bin\Debug\net5.0\ProjetoCorrida.dll
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\bin\Debug\net5.0\ref\ProjetoCorrida.dll
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\bin\Debug\net5.0\ProjetoCorrida.pdb
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\obj\Debug\net5.0\ProjetoCorrida.dll
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\obj\Debug\net5.0\ref\ProjetoCorrida.dll
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\obj\Debug\net5.0\ProjetoCorrida.pdb
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\obj\Debug\net5.0\ProjetoCorrida.genruntimeconfig.cache
+C:\Projetos\ProjetoCorrida\ProjetoCorrida\obj\Debug\net5.0\ProjetoCorrida.csproj.AssemblyReference.cache

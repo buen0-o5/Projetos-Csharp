@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Projeto PDV </title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Projeto PDV", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                @if (Request.IsAuthenticated)
+                {
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                Cliente
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Cadastrar cliente", "CadastrarCliente", "Cliente")</li>
+                                <li>@Html.ActionLink("Relatório cliente", "RelatorioCliente", "Cliente")</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                Funcionário
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Cadastrar funcionário", "CadastrarFuncionario", "Funcionario")</li>
+                                <li>@Html.ActionLink(" Relatório funcionário", "RelatorioFuncionario", "Funcionario")</li>
+                                <li class="nav-divider"></li>
+                                <li>@Html.ActionLink("Relatório de comissão", "RelatorioComissao", "Funcionario")</li>
+                                <li>@Html.ActionLink("Cadastro de comissão", "CadastroComissao", "Funcionario")</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                Produto
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Cadastrar produto", "CadastrarProduto", "Produto")</li>
+                                <li>@Html.ActionLink("Relatório de produto", "RelatorioProduto", "Produto")</li>
+                                <li class="nav-divider"></li>
+                                <li>@Html.ActionLink("Cadastrar categoria", "CadastrarCategoria", "Produto")</li>
+                                <li>@Html.ActionLink("Relatório de categoria", "RelatorioCategoria", "Produto")</li>
+                                <li class="nav-divider"></li>
+                                <li>@Html.ActionLink("Cadastrar tratamento", "CadastrarTratamento", "Produto")</li>
+                                <li>@Html.ActionLink("Relatório de tratamento", "RelatorioTratamento", "Produto")</li>
+                                <li class="nav-divider"></li>
+                                <li>@Html.ActionLink("Impostos", "Impostos", "Produto")</li>
+                                <li>@Html.ActionLink("NFCe", "NFCe", "Produto")</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                Financeiro
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Contas a pagar", "ContasPagar", "Financeiro")</li>
+                                <li>@Html.ActionLink("Contas a receber", "ContasReceber", "Financeiro")</li>
+                                <li>@Html.ActionLink("Relatório de C. Pagar", "RelatorioCPagar", "Financeiro")</li>
+                                <li>@Html.ActionLink("Relatório de C. Receber", "RelatorioCReceber", "Financeiro")</li>
+                                <li>@Html.ActionLink("Relatório de Vendas", "RelatorioVendas", "Financeiro")</li>
+                                <li>@Html.ActionLink("Forma de pagamento", "FormaPagamento", "Financeiro")</li>
+                                <li>@Html.ActionLink("R. de F. de pagamento", "RFpagamento", "Financeiro")</li>
+                                <li>@Html.ActionLink("Relatório de NFCe", " RelatorioNFCe", "Financeiro")</li>
+
+                            </ul>
+                        </li>
+                    </ul>
+
+                    using (Html.BeginForm("LogOff", "Conta", FormMethod.Post, new { id = "logoffForm" }))
+                    {
+                        <ul class="nav navbar-nav  navbar-right">
+                            <li>@Html.ActionLink("Usuário", "Sobre", "Home")</li>
+                            <li><a href="#">Olá @User.Identity.Name</a></li>
+
+                            <li><a href="javascript:document.getElementById('logoffForm').submit()">Sair</a></li>
+                        </ul>
+                    }
+                }
+                else
+                {
+                    <ul class="nav navbar-nav  navbar-right">
+                        <li>@Html.ActionLink("Sobre", "Sobre", "Home")</li>
+                    </ul>
+                }
+            </div>
+
+
+
+
+
+
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Projeto PDV</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,16 @@
+C:\Projetos\SistemadeHerança\SistemadeHerança\bin\Debug\net5.0\SistemadeHerança.exe
+C:\Projetos\SistemadeHerança\SistemadeHerança\bin\Debug\net5.0\SistemadeHerança.deps.json
+C:\Projetos\SistemadeHerança\SistemadeHerança\bin\Debug\net5.0\SistemadeHerança.runtimeconfig.json
+C:\Projetos\SistemadeHerança\SistemadeHerança\bin\Debug\net5.0\SistemadeHerança.runtimeconfig.dev.json
+C:\Projetos\SistemadeHerança\SistemadeHerança\bin\Debug\net5.0\SistemadeHerança.dll
+C:\Projetos\SistemadeHerança\SistemadeHerança\bin\Debug\net5.0\ref\SistemadeHerança.dll
+C:\Projetos\SistemadeHerança\SistemadeHerança\bin\Debug\net5.0\SistemadeHerança.pdb
+C:\Projetos\SistemadeHerança\SistemadeHerança\obj\Debug\net5.0\SistemadeHerança.csproj.AssemblyReference.cache
+C:\Projetos\SistemadeHerança\SistemadeHerança\obj\Debug\net5.0\SistemadeHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SistemadeHerança\SistemadeHerança\obj\Debug\net5.0\SistemadeHerança.AssemblyInfoInputs.cache
+C:\Projetos\SistemadeHerança\SistemadeHerança\obj\Debug\net5.0\SistemadeHerança.AssemblyInfo.cs
+C:\Projetos\SistemadeHerança\SistemadeHerança\obj\Debug\net5.0\SistemadeHerança.csproj.CoreCompileInputs.cache
+C:\Projetos\SistemadeHerança\SistemadeHerança\obj\Debug\net5.0\SistemadeHerança.dll
+C:\Projetos\SistemadeHerança\SistemadeHerança\obj\Debug\net5.0\ref\SistemadeHerança.dll
+C:\Projetos\SistemadeHerança\SistemadeHerança\obj\Debug\net5.0\SistemadeHerança.pdb
+C:\Projetos\SistemadeHerança\SistemadeHerança\obj\Debug\net5.0\SistemadeHerança.genruntimeconfig.cache

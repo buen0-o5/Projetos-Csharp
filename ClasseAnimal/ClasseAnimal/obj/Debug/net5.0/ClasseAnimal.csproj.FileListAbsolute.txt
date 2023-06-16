@@ -1,0 +1,16 @@
+C:\Projetos\ClasseAnimal\ClasseAnimal\bin\Debug\net5.0\ClasseAnimal.exe
+C:\Projetos\ClasseAnimal\ClasseAnimal\bin\Debug\net5.0\ClasseAnimal.deps.json
+C:\Projetos\ClasseAnimal\ClasseAnimal\bin\Debug\net5.0\ClasseAnimal.runtimeconfig.json
+C:\Projetos\ClasseAnimal\ClasseAnimal\bin\Debug\net5.0\ClasseAnimal.runtimeconfig.dev.json
+C:\Projetos\ClasseAnimal\ClasseAnimal\bin\Debug\net5.0\ClasseAnimal.dll
+C:\Projetos\ClasseAnimal\ClasseAnimal\bin\Debug\net5.0\ref\ClasseAnimal.dll
+C:\Projetos\ClasseAnimal\ClasseAnimal\bin\Debug\net5.0\ClasseAnimal.pdb
+C:\Projetos\ClasseAnimal\ClasseAnimal\obj\Debug\net5.0\ClasseAnimal.csproj.AssemblyReference.cache
+C:\Projetos\ClasseAnimal\ClasseAnimal\obj\Debug\net5.0\ClasseAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ClasseAnimal\ClasseAnimal\obj\Debug\net5.0\ClasseAnimal.AssemblyInfoInputs.cache
+C:\Projetos\ClasseAnimal\ClasseAnimal\obj\Debug\net5.0\ClasseAnimal.AssemblyInfo.cs
+C:\Projetos\ClasseAnimal\ClasseAnimal\obj\Debug\net5.0\ClasseAnimal.csproj.CoreCompileInputs.cache
+C:\Projetos\ClasseAnimal\ClasseAnimal\obj\Debug\net5.0\ClasseAnimal.dll
+C:\Projetos\ClasseAnimal\ClasseAnimal\obj\Debug\net5.0\ref\ClasseAnimal.dll
+C:\Projetos\ClasseAnimal\ClasseAnimal\obj\Debug\net5.0\ClasseAnimal.pdb
+C:\Projetos\ClasseAnimal\ClasseAnimal\obj\Debug\net5.0\ClasseAnimal.genruntimeconfig.cache

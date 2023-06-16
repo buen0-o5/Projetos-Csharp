@@ -1,0 +1,16 @@
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\bin\Debug\net5.0\HerançaDeClasses.exe
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\bin\Debug\net5.0\HerançaDeClasses.deps.json
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\bin\Debug\net5.0\HerançaDeClasses.runtimeconfig.json
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\bin\Debug\net5.0\HerançaDeClasses.runtimeconfig.dev.json
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\bin\Debug\net5.0\HerançaDeClasses.dll
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\bin\Debug\net5.0\ref\HerançaDeClasses.dll
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\bin\Debug\net5.0\HerançaDeClasses.pdb
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\obj\Debug\net5.0\HerançaDeClasses.csproj.AssemblyReference.cache
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\obj\Debug\net5.0\HerançaDeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\obj\Debug\net5.0\HerançaDeClasses.AssemblyInfoInputs.cache
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\obj\Debug\net5.0\HerançaDeClasses.AssemblyInfo.cs
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\obj\Debug\net5.0\HerançaDeClasses.csproj.CoreCompileInputs.cache
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\obj\Debug\net5.0\HerançaDeClasses.dll
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\obj\Debug\net5.0\ref\HerançaDeClasses.dll
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\obj\Debug\net5.0\HerançaDeClasses.pdb
+C:\Projetos\HerançaDeClasses\HerançaDeClasses\obj\Debug\net5.0\HerançaDeClasses.genruntimeconfig.cache

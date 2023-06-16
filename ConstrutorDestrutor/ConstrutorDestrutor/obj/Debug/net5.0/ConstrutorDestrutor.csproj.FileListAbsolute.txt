@@ -1,0 +1,16 @@
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\bin\Debug\net5.0\ConstrutorDestrutor.exe
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\bin\Debug\net5.0\ConstrutorDestrutor.deps.json
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\bin\Debug\net5.0\ConstrutorDestrutor.runtimeconfig.json
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\bin\Debug\net5.0\ConstrutorDestrutor.runtimeconfig.dev.json
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\bin\Debug\net5.0\ConstrutorDestrutor.dll
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\bin\Debug\net5.0\ref\ConstrutorDestrutor.dll
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\bin\Debug\net5.0\ConstrutorDestrutor.pdb
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\obj\Debug\net5.0\ConstrutorDestrutor.csproj.AssemblyReference.cache
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\obj\Debug\net5.0\ConstrutorDestrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\obj\Debug\net5.0\ConstrutorDestrutor.AssemblyInfoInputs.cache
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\obj\Debug\net5.0\ConstrutorDestrutor.AssemblyInfo.cs
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\obj\Debug\net5.0\ConstrutorDestrutor.csproj.CoreCompileInputs.cache
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\obj\Debug\net5.0\ConstrutorDestrutor.dll
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\obj\Debug\net5.0\ref\ConstrutorDestrutor.dll
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\obj\Debug\net5.0\ConstrutorDestrutor.pdb
+C:\Projetos\ConstrutorDestrutor\ConstrutorDestrutor\obj\Debug\net5.0\ConstrutorDestrutor.genruntimeconfig.cache

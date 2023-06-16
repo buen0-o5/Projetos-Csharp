@@ -1,0 +1,16 @@
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\bin\Debug\net5.0\SistemaEmConsoleProduto.exe
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\bin\Debug\net5.0\SistemaEmConsoleProduto.deps.json
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\bin\Debug\net5.0\SistemaEmConsoleProduto.runtimeconfig.json
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\bin\Debug\net5.0\SistemaEmConsoleProduto.runtimeconfig.dev.json
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\bin\Debug\net5.0\SistemaEmConsoleProduto.dll
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\bin\Debug\net5.0\ref\SistemaEmConsoleProduto.dll
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\bin\Debug\net5.0\SistemaEmConsoleProduto.pdb
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\obj\Debug\net5.0\SistemaEmConsoleProduto.csproj.AssemblyReference.cache
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\obj\Debug\net5.0\SistemaEmConsoleProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\obj\Debug\net5.0\SistemaEmConsoleProduto.AssemblyInfoInputs.cache
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\obj\Debug\net5.0\SistemaEmConsoleProduto.AssemblyInfo.cs
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\obj\Debug\net5.0\SistemaEmConsoleProduto.csproj.CoreCompileInputs.cache
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\obj\Debug\net5.0\SistemaEmConsoleProduto.dll
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\obj\Debug\net5.0\ref\SistemaEmConsoleProduto.dll
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\obj\Debug\net5.0\SistemaEmConsoleProduto.pdb
+C:\Projetos\SistemaEmConsoleProduto\SistemaEmConsoleProduto\obj\Debug\net5.0\SistemaEmConsoleProduto.genruntimeconfig.cache

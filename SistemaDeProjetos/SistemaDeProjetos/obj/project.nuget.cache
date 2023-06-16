@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sv3z6o5LbHz+Eh0UpIkyfp4p/W6tTTYxbcT2lJY51/jhnUf1IoimCjQK7AlI4a9dlhBZjx1+Mg7n3qljx2Y03g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\SistemaDeProjetos\\SistemaDeProjetos\\SistemaDeProjetos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\nikea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
