@@ -1,0 +1,7 @@
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Marcoratti\DominioDeClase\DominioDeClase\bin\Debug\DominioDeClase.exe.config
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Marcoratti\DominioDeClase\DominioDeClase\bin\Debug\DominioDeClase.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Marcoratti\DominioDeClase\DominioDeClase\bin\Debug\DominioDeClase.pdb
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Marcoratti\DominioDeClase\DominioDeClase\obj\Debug\DominioDeClase.csproj.AssemblyReference.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Marcoratti\DominioDeClase\DominioDeClase\obj\Debug\DominioDeClase.csproj.CoreCompileInputs.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Marcoratti\DominioDeClase\DominioDeClase\obj\Debug\DominioDeClase.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Marcoratti\DominioDeClase\DominioDeClase\obj\Debug\DominioDeClase.pdb

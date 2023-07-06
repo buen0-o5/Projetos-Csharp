@@ -1,0 +1,7 @@
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\ComparandoString\ComparandoString\bin\Debug\ComparandoString.exe.config
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\ComparandoString\ComparandoString\bin\Debug\ComparandoString.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\ComparandoString\ComparandoString\bin\Debug\ComparandoString.pdb
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\ComparandoString\ComparandoString\obj\Debug\ComparandoString.csproj.CoreCompileInputs.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\ComparandoString\ComparandoString\obj\Debug\ComparandoString.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\ComparandoString\ComparandoString\obj\Debug\ComparandoString.pdb
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\ComparandoString\ComparandoString\obj\Debug\ComparandoString.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Moeda\Moeda\bin\Debug\Moeda.exe.config
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Moeda\Moeda\bin\Debug\Moeda.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Moeda\Moeda\bin\Debug\Moeda.pdb
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Moeda\Moeda\obj\Debug\Moeda.csproj.AssemblyReference.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Moeda\Moeda\obj\Debug\Moeda.csproj.CoreCompileInputs.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Moeda\Moeda\obj\Debug\Moeda.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Moeda\Moeda\obj\Debug\Moeda.pdb

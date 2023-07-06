@@ -1,0 +1,6 @@
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Indice\Indice\bin\Debug\Indice.exe.config
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Indice\Indice\bin\Debug\Indice.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Indice\Indice\bin\Debug\Indice.pdb
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Indice\Indice\obj\Debug\Indice.csproj.CoreCompileInputs.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Indice\Indice\obj\Debug\Indice.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Indice\Indice\obj\Debug\Indice.pdb

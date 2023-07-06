@@ -9,14 +9,16 @@
     background-color: #fff;
     margin: 20px auto;
     border-radius: 10px;
-    border: 1px solid rgba(0,0,0,0.1);
-    box-shadow: 0 0 8px rgba(0,0,0,0.2);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
     padding: 10px 35px;
 }
-h3{
-    margin: 20px;
+
+h3 {
+    margin: 20px auto;
     text-align: center;
 }
+
 .btn {
     background-color: #4caf50;
     border: none;
@@ -24,7 +26,7 @@ h3{
     color: #fff;
     cursor: pointer;
     font-size: 16px;
-    font-weight:bold;
+    font-weight: bold;
     margin-bottom: 10px;
     padding: 10px;
     width: 100%;
@@ -32,5 +34,4 @@ h3{
 
     .btn:hover {
         background-color: #3e8e41;
-        color: #fff;
     }

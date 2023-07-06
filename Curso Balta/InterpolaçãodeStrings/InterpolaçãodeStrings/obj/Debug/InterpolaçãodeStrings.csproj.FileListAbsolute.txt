@@ -1,0 +1,7 @@
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\InterpolaçãodeStrings\InterpolaçãodeStrings\bin\Debug\InterpolaçãodeStrings.exe.config
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\InterpolaçãodeStrings\InterpolaçãodeStrings\bin\Debug\InterpolaçãodeStrings.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\InterpolaçãodeStrings\InterpolaçãodeStrings\bin\Debug\InterpolaçãodeStrings.pdb
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\InterpolaçãodeStrings\InterpolaçãodeStrings\obj\Debug\InterpolaçãodeStrings.csproj.AssemblyReference.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\InterpolaçãodeStrings\InterpolaçãodeStrings\obj\Debug\InterpolaçãodeStrings.csproj.CoreCompileInputs.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\InterpolaçãodeStrings\InterpolaçãodeStrings\obj\Debug\InterpolaçãodeStrings.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\InterpolaçãodeStrings\InterpolaçãodeStrings\obj\Debug\InterpolaçãodeStrings.pdb

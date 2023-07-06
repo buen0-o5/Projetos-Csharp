@@ -1,0 +1,16 @@
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Projects\Projects\obj\Debug\Projects.csproj.AssemblyReference.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Projects\Projects\obj\Debug\Projects.pdb
+C:\Projetos\Treinos\Curso Balta\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Projetos\Treinos\Curso Balta\Projects\Projects\bin\Debug\Projects.exe
+C:\Projetos\Treinos\Curso Balta\Projects\Projects\bin\Debug\Projects.pdb
+C:\Projetos\Treinos\Curso Balta\Projects\Projects\obj\Debug\Projects.csproj.AssemblyReference.cache
+C:\Projetos\Treinos\Curso Balta\Projects\Projects\obj\Debug\Projects.Resource1.resources
+C:\Projetos\Treinos\Curso Balta\Projects\Projects\obj\Debug\Projects.csproj.GenerateResource.cache
+C:\Projetos\Treinos\Curso Balta\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Projetos\Treinos\Curso Balta\Projects\Projects\obj\Debug\Projects.exe
+C:\Projetos\Treinos\Curso Balta\Projects\Projects\obj\Debug\Projects.pdb

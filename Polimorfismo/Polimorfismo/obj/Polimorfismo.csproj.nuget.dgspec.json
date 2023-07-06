@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Polimorfismo\\Polimorfismo\\Polimorfismo.csproj": {}
+    "C:\\Projetos\\Projetos c#\\Polimorfismo\\Polimorfismo\\Polimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Polimorfismo\\Polimorfismo\\Polimorfismo.csproj": {
+    "C:\\Projetos\\Projetos c#\\Polimorfismo\\Polimorfismo\\Polimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Polimorfismo\\Polimorfismo\\Polimorfismo.csproj",
+        "projectUniqueName": "C:\\Projetos\\Projetos c#\\Polimorfismo\\Polimorfismo\\Polimorfismo.csproj",
         "projectName": "Polimorfismo",
-        "projectPath": "C:\\Projetos\\Polimorfismo\\Polimorfismo\\Polimorfismo.csproj",
+        "projectPath": "C:\\Projetos\\Projetos c#\\Polimorfismo\\Polimorfismo\\Polimorfismo.csproj",
         "packagesPath": "C:\\Users\\nikea\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Polimorfismo\\Polimorfismo\\obj\\",
+        "outputPath": "C:\\Projetos\\Projetos c#\\Polimorfismo\\Polimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikea\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

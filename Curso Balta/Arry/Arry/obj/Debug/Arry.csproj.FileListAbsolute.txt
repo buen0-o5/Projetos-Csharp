@@ -1,0 +1,7 @@
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Arry\Arry\bin\Debug\Arry.exe.config
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Arry\Arry\bin\Debug\Arry.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Arry\Arry\bin\Debug\Arry.pdb
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Arry\Arry\obj\Debug\Arry.csproj.CoreCompileInputs.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Arry\Arry\obj\Debug\Arry.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Arry\Arry\obj\Debug\Arry.pdb
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Arry\Arry\obj\Debug\Arry.csproj.AssemblyReference.cache

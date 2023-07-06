@@ -1,0 +1,7 @@
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Guids\Guids\bin\Debug\Guids.exe.config
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Guids\Guids\bin\Debug\Guids.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Guids\Guids\bin\Debug\Guids.pdb
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Guids\Guids\obj\Debug\Guids.csproj.AssemblyReference.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Guids\Guids\obj\Debug\Guids.csproj.CoreCompileInputs.cache
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Guids\Guids\obj\Debug\Guids.exe
+C:\Users\BREND\OneDrive\Documentos\C#\Treinos\Curso Balta\Guids\Guids\obj\Debug\Guids.pdb
